@@ -1,3 +1,4 @@
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -6,8 +7,55 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.status{
+  text-align: center;
+  font-size: 40px;
+  padding: 30px;
+}
+
+.square-Master{
+margin-left: auto;
+margin-right: auto;
+position: relative;
+top: 100px;
+background-color: aqua;
+width: 500px;
+height: 350px;
+}
+
+.square{
+  width: 50px;
+  height: 50px;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.square.blue{
+  color: blue;
+}
+
+.square.red{
+color: red;
+}
+
+.row-123{
+  position: relative;
+  right: -175px;
+}
+
+.row-1{
+  display: flex;
+}
+
+.row-2{
+display: flex;
+}
+
+.row-3{
+  display: flex;
 }
