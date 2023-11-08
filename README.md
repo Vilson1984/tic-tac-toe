@@ -1,4 +1,35 @@
-# Você pode jogar o Tic-tac-toe/jogo-da-velha através desse link: https://vilson1984.github.io/tic-tac-toe/
+# 📖 Sobre o projeto:
+    O projeto é um jogo da velha implementado em React.js, uma biblioteca JavaScript popular para a criação de interfaces de usuário. 
+    O jogo da velha é um clássico jogo de tabuleiro para dois jogadores, no qual os jogadores alternam entre "X" e "O" para marcar 
+    espaços em um tabuleiro 3x3. 
+    O objetivo do jogo é que um jogador forme uma linha, coluna ou diagonal com suas marcações antes do outro jogador. 
+    O projeto visa criar uma versão interativa 
+    e jogável do jogo da velha que pode ser acessada e jogada no navegador.
+
+# 🎮 #Acesso ao projeto: 
+     Você pode ter acesso ao jogo da velha (tic tac toe) acessando o link ao lado [:clicando aqui](https://vilson1984.github.io/tic-tac-toe/)
+     
+# 🖥️ Tecnologias utilizadas:
+
+    - React.js: O projeto é construído usando o React, uma biblioteca JavaScript popular para o desenvolvimento de interfaces de usuário. O React oferece um modelo de componentes reutilizáveis e gerenciamento eficiente do estado do aplicativo.
+    - HTML e CSS: HTML é usado para renderizar a estrutura do jogo da velha na página web, enquanto o CSS é usado para estilizar os elementos e dar ao jogo uma aparência agradável.
+    - JavaScript: Além de React, o JavaScript é usado para controlar a lógica do jogo, como a alternância entre jogadores, verificação de vitória e determinação de empate.
+
+# 🎯 Objetivo:
+    O principal objetivo do projeto é criar uma implementação funcional e interativa do jogo da velha usando tecnologias web modernas. Os objetivos específicos incluem:
+    Criar uma experiência de jogo interativa: Permitir que os jogadores cliquem nos espaços do tabuleiro para fazer suas jogadas e ver as marcações de "X" e "O" em tempo real.
+    Alternar entre jogadores: Garantir que o jogo alterne automaticamente entre os jogadores, permitindo que cada jogador faça sua jogada.
+    Detectar o vencedor: Implementar a lógica para verificar se um jogador venceu o jogo, formando uma linha, coluna ou diagonal com suas marcações.
+
+# 🚧 Pendências:
+    Detectar empate: Verificar se o jogo terminou em empate quando todos os espaços estiverem preenchidos e nenhum jogador vencer.
+    Fornecer feedback visual: Dar feedback visual aos jogadores quando ocorrer um empate.
+
+# 🙂 Experiência do usuário:
+    O projeto do jogo da velha em React.js oferece uma oportunidade de aprendizado e prática para desenvolvedores iniciantes e intermediários, 
+    ajudando-os a aprimorar suas habilidades em React e JavaScript, além de criar uma experiência de jogo divertida para os usuários.
+
+
 
 # Getting Started with Create React App
 
