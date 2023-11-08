@@ -6,7 +6,7 @@
     O projeto visa criar uma versão interativa 
     e jogável do jogo da velha que pode ser acessada e jogada no navegador.
 
-# 🎮 #Acesso ao projeto: 
+# 🎮 Acesso ao projeto: 
      Você pode ter acesso ao jogo da velha (tic tac toe) acessando o link ao lado [:clicando aqui](https://vilson1984.github.io/tic-tac-toe/)
      
 # 🖥️ Tecnologias utilizadas:
