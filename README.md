@@ -7,7 +7,7 @@
     e jogável do jogo da velha que pode ser acessada e jogada no navegador.
 
 # 🎮 Acesso ao projeto: 
-     Você pode ter acesso ao jogo da velha (tic tac toe) acessando o link ao lado [:clicando aqui](https://vilson1984.github.io/tic-tac-toe/)
+     Você pode ter acesso ao jogo da velha (tic tac toe) colando o seguinte link, (https://vilson1984.github.io/tic-tac-toe/) em seu browser.
      
 # 🖥️ Tecnologias utilizadas:
 
